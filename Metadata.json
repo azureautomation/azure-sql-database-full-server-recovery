@@ -1,0 +1,20 @@
+{
+    "Author": "Eli Fisher",
+    "ContentSize": 1777,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-sql-database-full-server-recovery/master/AzureSQLDatabaseFullServerRecovery.ps1",
+    "DownloadCount": 1848,
+    "Id": "Azure-SQL-Database-Full-82941666",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 211,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2014-12-31T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script demonstrates how to recover all Azure SQL databases on one server to another server under the same Azure subscription.",
+    "Title": "Azure SQL Database: Full Server Recovery",
+    "UpdatedDate": "2014-12-31T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-sql-database-full-server-recovery",
+    "UserTags": "Disaster Recovery, Windows Azure SQL Database"
+}
